@@ -27,3 +27,5 @@ These commands were used to install all the libraries used in this project.
 `npm install html2canvas`
 
 `npm run dev -- --host`
+
+test
