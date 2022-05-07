@@ -38,3 +38,6 @@ These commands were used to install all the libraries used in this project.
 
 - **To make your app visible on your local network**
   - `npm run dev -- --host`
+
+- **To make HTTP request**
+  - `npm install axios`
